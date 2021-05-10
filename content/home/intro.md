@@ -9,7 +9,7 @@ headless: true
 weight: 10
 
 title: ✏️ 玥玥
-subtitle: 'For [Wowchemy Website Builder](https://wowchemy.com/)'
+subtitle: 'For [玥玥購物網](https://yamesweet.weebly.com/)'
 
 design:
   background:
